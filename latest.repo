@@ -1,0 +1,5 @@
+[latest]
+name=Latest Packages for OracleLinux 7
+baseurl=http://10.114.47.245/repo/latest-OracleLinux_x86_64_7_prd_stable/ http://10.114.47.151/repo/latest-OracleLinux_x86_64_7_prd_stable/ http://10.63.98.215/repo/latest-OracleLinux_x86_64_7_prd_stable/ http://10.96.0.150/repo/latest-OracleLinux_x86_64_7_prd_stable/ http://10.56.0.145/repo/latest-OracleLinux_x86_64_7_prd_stable/ http://10.97.0.212/repo/latest-OracleLinux_x86_64_7_prd_stable/ http://10.57.0.212/repo/latest-OracleLinux_x86_64_7_prd_stable/
+enabled=1
+gpgcheck=0
